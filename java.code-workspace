@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "java.help.shareDiagnostics": true,
+        "java.project.sourcePaths": [
+            ""
+        ]
+    }
+}
